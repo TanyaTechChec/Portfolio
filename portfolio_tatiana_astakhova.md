@@ -47,7 +47,7 @@
 - Провести регрессионное тестирование.
 - Подготовить отчет о тестировании.
 
-  [Отчет о тестирование](https://docs.google.com/document/d/1bDthY25zjpCf6SNNiP-FM-udMgAq0R-lGfK7NAPKOTg/edit?usp=sharing)
+[Отчет о тестирование](https://docs.google.com/document/d/1bDthY25zjpCf6SNNiP-FM-udMgAq0R-lGfK7NAPKOTg/edit?usp=sharing)
 ---
 
 ### Яндекс.Прилавок
