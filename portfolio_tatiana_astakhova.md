@@ -46,7 +46,8 @@
 - Протестировать измененные части продукта.
 - Провести регрессионное тестирование.
 - Подготовить отчет о тестировании.
-  [Отчет о тестировании](https://docs.google.com/document/d/1bDthY25zjpCf6SNNiP-FM-udMgAq0R-lGfK7NAPKOTg/edit?usp=sharing)
+
+  [Отчет о тестирование](https://docs.google.com/document/d/1bDthY25zjpCf6SNNiP-FM-udMgAq0R-lGfK7NAPKOTg/edit?usp=sharing)
 ---
 
 ### Яндекс.Прилавок
@@ -58,6 +59,8 @@
 - Проверка доставки курьерской службой (POST `/fast-delivery/v3.1.1/calculate-delivery.xml`)
 - Работа с корзиной (GET, PUT, DELETE `/api/v1/orders/:id`)
 
+  [Отчет о тестирование](https://docs.google.com/document/d/1byz1aNmtGzKr4frYm17j0g5M4DbtCCKmg1T1H3yNwwg/edit?usp=sharing)
+
 ---
 
 ### Командное тестирование трех сайтов
@@ -66,10 +69,15 @@
 - Распределение обязанностей и контроль выполнения задач.
 - Разработка тест-планов, кейсов, отчетов.
 
+  [Тест план](https://disk.yandex.ru/edit/disk/disk%2F%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20Stellar%20Burgers.docx?sk=y49d1de9a9673c36c10a0d93341d177ea)
+  [Отчет о тестирования Stellar Burgers](https://disk.yandex.ru/edit/disk/disk%2F%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20Stellar%20Burgers%2C%204-%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%2C%2019-%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%20%E2%80%94%205-%D0%B8%CC%86%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82.%20%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%BF%D0%BB%D1%8E%D1%81.docx?sk=y49d1de9a9673c36c10a0d93341d177ea)
+  [Отчет о тестирование Kitigramm](https://disk.yandex.ru/edit/d/pK-a8sbV5tNYIWKGuK0d8CPegnqahzm72s0qoIz-cKg6eU5BeGVkU1hFQQ)
+  [Отчет о тестирование Продуктовый помощник](https://disk.yandex.ru/edit/disk/disk%2F%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B8%CC%86%20%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%2C%204-%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%2C%2019-%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%20%E2%80%94%205-%D0%B8%CC%86%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82.%20%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%BF%D0%BB%D1%8E%D1%81.docx?sk=y49d1de9a9673c36c10a0d93341d177ea)
+
 ---
 
 ## Навыки и инструменты
-- **Тест-дизайн:** Тест-кейсы, чек-листы, блок-схемы, диаграммы переходов.
+- **Тест-дизайн:** [Тест-кейсы](https://drive.google.com/file/d/1XRW0NLXjFNDQ6u3gPKdkQU-lxMKKIhd9/view?usp=drive_link) [Тест-кейсы](https://drive.google.com/file/d/1tazGH6BU7sfppfefbNCijkH7xRv7TR2w/view?usp=drive_link), ]чек-листы API](https://docs.google.com/spreadsheets/d/1A9VVVaECtqe0dQFN9r6OFmKSlKk6caZiemW7WDyu5cA/edit#gid=0) , блок-схемы, диаграммы переходов.
 - **Инструменты:** Postman, Charles, консоль.
 - **Методологии:** Регрессионное тестирование, API тестирование.
 
