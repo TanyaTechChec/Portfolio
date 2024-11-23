@@ -1,6 +1,6 @@
 
 # Портфолио Астахова Татьяна
-[![Сертификат](https://img.shields.io/badge/https://drive.google.com/file/d/16U35u1N4hzjNJnvnaiNTQLHTGnfr14Nl/view?usp=sharing.blue)]
+[Сертификат](https://drive.google.com/file/d/16U35u1N4hzjNJnvnaiNTQLHTGnfr14Nl/view?usp=sharing)
 
 ## Контактная информация
 [![Gmail](https://img.shields.io/badge/Email-tastakhovafreel29%40gmail.com-red)](mailto:tastakhovafreel29@gmail.com)
