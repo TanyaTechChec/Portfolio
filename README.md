@@ -1,52 +1,8 @@
+# Мое портфолио переехало на главную страницу!
 
-# Портфолио Астахова Татьяна
-[Сертификат](https://drive.google.com/file/d/16U35u1N4hzjNJnvnaiNTQLHTGnfr14Nl/view?usp=sharing)
+Теперь вы можете найти все мои работы и проекты по следующей ссылке: [Мой порофиль на GitHub](https://github.com/TanyaTechChec). Однако этот репозиторий я не удаляю — здесь вы найдете различные примеры и полезные ссылки на мои работы.
 
-## Контактная информация
-[![Gmail](https://img.shields.io/badge/Email-tastakhovafreel29%40gmail.com-red)](mailto:tastakhovafreel29@gmail.com)
-[![Phone](https://img.shields.io/badge/Телефон-8%20995--880--39--19-brightgreen)](#)
-
-## О себе
-Молодой специалист в области тестирования программного обеспечения с сертификатом от Яндекс.Практикума. Обладаю знаниями основных методик тестирования и готова активно применять их в реальных проектах. Несмотря на небольшой практический опыт, демонстрирую высокий уровень ответственности, быструю обучаемость и стремление к профессиональному развитию. Готова внести вклад в команду, используя современные подходы к тестированию и глубокое понимание процессов контроля качества ПО.
-
-## Проекты
-
-### Яндекс.Метро (мобильное приложение)
-[Подробнее о проекте](https://yandex.ru/metro/moscow?scheme_id=sc34974011)
-
-**Задача:**  
-Команда Яндекс Метро сделала рефакторинг мобильного приложения на Android, внесла правки в код.  
-Для выпуска новой версии необходимо:
-- Протестировать измененные части продукта.
-- Провести регрессионное тестирование.
-- Подготовить отчет о тестировании.
-
-[Отчет о тестирование](https://docs.google.com/document/d/1bDthY25zjpCf6SNNiP-FM-udMgAq0R-lGfK7NAPKOTg/edit?usp=sharing)
----
-
-### Яндекс.Прилавок
-**Описание:**  
-Одна из команд Яндекса разрабатывает приложение Прилавок. Бэкенд готов, фронтенд — частично.  
-К тестированию нужно приступить уже сейчас, протестировав API функциональность.
-
-**Эндпоинты:**
-- Проверка доставки курьерской службой (POST `/fast-delivery/v3.1.1/calculate-delivery.xml`)
-- Работа с корзиной (GET, PUT, DELETE `/api/v1/orders/:id`)
-
-[Отчет о тестирование](https://docs.google.com/document/d/1byz1aNmtGzKr4frYm17j0g5M4DbtCCKmg1T1H3yNwwg/edit?usp=sharing)
-
----
-
-### Командное тестирование трех сайтов
-**Сайты:** Stellar Burgers, Kitigram, Продуктовый помощник  
-**Роль:** Тест-лид  
-- Распределение обязанностей и контроль выполнения задач.
-- Разработка тест-планов, кейсов, отчетов.
-
-[Тест план](https://disk.yandex.ru/edit/disk/disk%2F%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20Stellar%20Burgers.docx?sk=y49d1de9a9673c36c10a0d93341d177ea)
-[Отчет о тестирования Stellar Burgers](https://disk.yandex.ru/edit/disk/disk%2F%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20Stellar%20Burgers%2C%204-%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%2C%2019-%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%20%E2%80%94%205-%D0%B8%CC%86%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82.%20%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%BF%D0%BB%D1%8E%D1%81.docx?sk=y49d1de9a9673c36c10a0d93341d177ea)
-[Отчет о тестирование Kitigramm](https://disk.yandex.ru/edit/d/pK-a8sbV5tNYIWKGuK0d8CPegnqahzm72s0qoIz-cKg6eU5BeGVkU1hFQQ)
-[Отчет о тестирование Продуктовый помощник](https://disk.yandex.ru/edit/disk/disk%2F%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B8%CC%86%20%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%2C%204-%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%2C%2019-%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%20%E2%80%94%205-%D0%B8%CC%86%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82.%20%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%BF%D0%BB%D1%8E%D1%81.docx?sk=y49d1de9a9673c36c10a0d93341d177ea)
+Жду вас на главной странице моего профиля, где можно познакомиться со мной поближе!
 
 ---
 
@@ -68,18 +24,5 @@
 - [API Postman коллекция](https://drive.google.com/file/d/1yjcDXH6Hs_pVLZf-JDziTXTLU4feUNk7/view?usp=sharing)
 - [Charles](https://drive.google.com/drive/folders/11T-_mYdBPzgZ0XPZn_4UYC0K8p3yCMcc?usp=drive_link)
 - Консоль
-Все информационные логи (info) Яндекс Прилавка хранятся в разных файлах и папках. Чтобы анализировать работу приложения было удобнее, их нужно отфильтровать и положить в отдельный файл.
-Файлы с логами хранятся в двух папках:
-//var/www/backend/packages/main/logs — файл combined.log.
-//var/www/backend/packages/secondary/build/logs — файл combined.log.
-Что нужно сделать:
--Подключись к серверу Яндекс Прилавка через консоль.
--В директории home/morty создай папку generallogs.
--Из папки //var/www/backend/packages/main/logs скопируй файл с логами в папку generallogs. Назови его logs1.log.
--Из папки //var/www/backend/packages/secondary/build/logs скопируй файл с логами в папку generallogs. Назови его logs2.log.
--Из файлов logs1.log и logs2.log выбери информационные логи (info) и помести в новый файл info.log.
 [список команд](https://docs.google.com/document/d/1xg7ONQmpojjPfhKSuTpgGN1wWIisPa6S8kkm2PgaiMU/edit?usp=sharing)
-## Дипломная работа:
-[Проект по работе с базой данных и API.
-Автотест.](https://github.com/TanyaTechChec/Yandex_Diplom/tree/master) 
 
